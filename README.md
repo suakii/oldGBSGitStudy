@@ -1,4 +1,4 @@
-# oldGBSGitStudy
+# GBS 졸업생을 위한 github Test
 #git은 어렵지 않습니다. 다만 익숙해지는데 시간이 걸릴꺼에요.^^
 https://rogerdudler.github.io/git-guide/index.ko.html
 보고 자신의 플랫폼에 맞는 git을 다운로드 하고 설치합니다.
@@ -12,3 +12,4 @@ git clone https://github.com/suakii/oldGBSGitStudy.git
 
 #목표
 우리의 단순한 피보나치 수열을 구하는 프로그램의 복잡도를 O(logN)까지 줄이는 것이 목표입니다.^^ 여러분과 함께
+##고등학교 시절 배웠듯이 재귀->동적프로그래밍->메모이제이션->행렬연산 을 통한 복잡도 개선을 해봅시다.^^

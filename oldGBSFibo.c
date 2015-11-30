@@ -5,6 +5,37 @@
  자 시간 복잡도를 빅오로 이야기 해주세요.^^
 */
 
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+/*fork test*/
+
+
+
 #define MAX 100
 int arr[MAX];
 int ma[2][2]={{1,1}, {1,0}};
